@@ -5,6 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vik37" alt="vik37" /></a> </p>
 
 - 🌱 I’m currently learning **Microsoft SQL, SSMS.**
+- All **SQL Scripts** in 1 Repo.
 
 <img src="https://dataschool.com/assets/images/how-to-teach-people-sql/leftJoin/leftJoin_2.gif" alt="daaschool image" width="400ppx" height="200px" />
 <br />
