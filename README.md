@@ -1,5 +1,5 @@
-"#SQL_Tasks_Exercises" 
-<h1 align="center">Hi 👋, I'm Viktor</h1>
+
+<h1 align="center">📢 SQL_Tasks_Exercises 📝</h1>
 <h3 align="center">This is a SQL tasks, exercises and learning path from the academy till today.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vik37" alt="vik37" /></a> </p>
