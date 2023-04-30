@@ -2,7 +2,7 @@ CREATE DATABASE [CqrsInPractice]
 go
 USE [CqrsInPractice]
 GO
-/****** Object:  Table [dbo].[Course]    Script Date: 6/27/2018 9:40:04 PM ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -18,7 +18,7 @@ CREATE TABLE [dbo].[Course](
 ) ON [PRIMARY]
 
 GO
-/****** Object:  Table [dbo].[Disenrollment]    Script Date: 6/27/2018 9:40:04 PM ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -36,7 +36,7 @@ CREATE TABLE [dbo].[Disenrollment](
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
 
 GO
-/****** Object:  Table [dbo].[Enrollment]    Script Date: 6/27/2018 9:40:04 PM ******/
+/****** Object:  Table [dbo].[Enrollment]   ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -53,7 +53,7 @@ CREATE TABLE [dbo].[Enrollment](
 ) ON [PRIMARY]
 
 GO
-/****** Object:  Table [dbo].[Student]    Script Date: 6/27/2018 9:40:04 PM ******/
+/****** Object:  Table [dbo].[Student]  ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
